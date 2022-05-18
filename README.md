@@ -283,5 +283,5 @@ $
 
 ## Authors :datatechs:
 
-* Yate Asseke Ronald <[yateronald](https://github.com/yateronald)>
+*Joel Ngunjiri
 
