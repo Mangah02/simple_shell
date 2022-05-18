@@ -1,6 +1,6 @@
-# shellby - Simple Shell :shell:
+#  - Simple Shell :shell:
 
-A simple UNIX command interpreter written as part of the low-level programming and algorithm track at Holberton School.
+A simple UNIX command interpreter written as part of the low-level programming and algorithm track at ALX School.
 
 ## Description :speech_balloon:
 
@@ -201,13 +201,13 @@ Example:
 ```
 $ ./shellby
 $ pwd
-/home/vagrant/holberton/simple_shell
+/home/vagrant/ALX/simple_shell
 $ cd ../
 $ pwd
-/home/vagrant/holberton
+/home/vagrant/ALX
 $ cd -
 $ pwd
-/home/vagrant/holberton/simple_shell
+/home/vagrant/ALX/simple_shell
 ```
 
 #### alias
