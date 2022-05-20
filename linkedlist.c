@@ -1,7 +1,7 @@
 /*
  * File: linkedlist.c
- * Auth: Alex Yu
- *       Brennan D Baraban
+ * Auth: Joel Ngunjiri
+ *       
  */
 
 #include "shell.h"
