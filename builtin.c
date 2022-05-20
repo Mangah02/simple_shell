@@ -160,7 +160,7 @@ int shellby_cd(char **args, char __attribute__((__unused__)) **front)
 }
 
 /**
- * shellby_help - Displays information about shellby builtin commands.
+ * shellby_help - Display information about shellby builtin commands.
  * @args: An array of arguments.
  * @front: A pointer to the beginning of args.
  *
